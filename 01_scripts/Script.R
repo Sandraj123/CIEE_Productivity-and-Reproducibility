@@ -25,6 +25,9 @@ library(assertr)
 library(stringdist)
 library(GGally)
 
-#voew and save raw data
+#view and read data into raw data file path
 
 view(ntl_icecover)
+write_csv(ntl_icecover, "./00_rawdata/icedata.csv")
+
+
