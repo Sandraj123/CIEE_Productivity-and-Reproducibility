@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  ice_duration by lakeid
+t = -0.56725, df = 328.98, p-value = 0.5709
+alternative hypothesis: true difference in means between group Lake Mendota and group Lake Monona is not equal to 0
+95 percent confidence interval:
+ -5.458277  3.014976
+sample estimates:
+mean in group Lake Mendota  mean in group Lake Monona 
+                  102.2061                   103.4277 
+

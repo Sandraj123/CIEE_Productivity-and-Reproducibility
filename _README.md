@@ -21,4 +21,7 @@ Directory content files:
  - 04_manuscript
    Contains manuscript writing and reference material
    
+ - 05_preregistartion
+   Contains pre-registration files including Rmarkdown and rendered pdf
+   
    
